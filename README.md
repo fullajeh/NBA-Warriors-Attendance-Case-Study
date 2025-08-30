@@ -25,9 +25,10 @@ By using Python for data cleaning, visualization, and analysis, I transformed ra
 
 ## 📊 Visuals
 The analysis includes:  
+- Fully interactive Power BI Dashboard that visualizes the data (Located in the Repository)
 - Line charts of attendance across seasons  
 - Bar charts comparing team vs. league averages  
-- Profitability breakdown by year  
+- Profitability breakdown by year
 
 *(Charts are available in the repository.)*  
 
